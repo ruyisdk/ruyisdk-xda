@@ -1,0 +1,15 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project.git
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv/riscv-gnu-toolchain
+[submodule "jdk11u"]
+	path = jdk11u
+	url = https://github.com/openjdk-riscv/jdk11u.git
+[submodule "qemu"]
+	path = qemu
+	url = https://gitlab.com/qemu-project/qemu.git
+[submodule "opencv"]
+	path = opencv
+	url = https://github.com/opencv/opencv.git
